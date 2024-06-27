@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1037726524082",
+    "firebase_url": "https://manajemenwaktu-f7961-default-rtdb.firebaseio.com",
+    "project_id": "manajemenwaktu-f7961",
+    "storage_bucket": "manajemenwaktu-f7961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037726524082:android:49820e812e003c80e71fab",
+        "android_client_info": {
+          "package_name": "com.manajemenwaktu.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVxsF1qlZRstYEiVYctCqIFATEpiY47vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
